@@ -1,0 +1,8 @@
+c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\bin\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.deps.json
+c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\bin\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.runtimeconfig.json
+c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\bin\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.runtimeconfig.dev.json
+c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\bin\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.dll
+c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.csprojResolveAssemblyReference.cache
+c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.csproj.CoreCompileInputs.cache
+c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.AssemblyInfoInputs.cache
+c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.AssemblyInfo.cs
