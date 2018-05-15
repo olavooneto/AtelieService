@@ -6,3 +6,6 @@ c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePape
 c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.csproj.CoreCompileInputs.cache
 c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.AssemblyInfoInputs.cache
 c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.AssemblyInfo.cs
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\bin\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.pdb
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.dll
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.pdb
