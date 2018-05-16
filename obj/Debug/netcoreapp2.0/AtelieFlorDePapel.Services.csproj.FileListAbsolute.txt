@@ -9,3 +9,14 @@ c:\users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePape
 C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\bin\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.pdb
 C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.dll
 C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.pdb
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\bin\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.deps.json
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\bin\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.runtimeconfig.json
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\bin\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.runtimeconfig.dev.json
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\bin\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.dll
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\bin\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.pdb
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.csprojResolveAssemblyReference.cache
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.csproj.CoreCompileInputs.cache
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.AssemblyInfoInputs.cache
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.AssemblyInfo.cs
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.dll
+C:\Users\olavo_oliveira\source\repos\AtelieFlorDePapel.Services\obj\Debug\netcoreapp2.0\AtelieFlorDePapel.Services.pdb
